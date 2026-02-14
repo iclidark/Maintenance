@@ -1,0 +1,3 @@
+class ListeTache {
+  name: string;
+}
